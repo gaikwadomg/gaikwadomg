@@ -1,17 +1,5 @@
 
-<style>
-    .back{
-        color: ; 
-        background:url(omg19.jpeg);
-        background-size:10px;
-        height: auto;
-        margin-top:0;
-        padding:23px
-    }
-</style>
-
-<div class="back">
-
+<div class="back" style=" background:url('omg19.jpeg'); background-size: 10px; height: auto; margin-top: 0; padding: 23px;">
 [![MasterHead](omg3.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Om Gaikwad</h1>
@@ -33,8 +21,6 @@
 - 📫 How to reach me **ogaikwad103@gmail.com**
 
 - 📄 Know about my experiences [https://omgaikwad.tech/cv.pdf](https://omgaikwad.tech/cv.pdf)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/omg1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/omg1" height="30" width="40" /></a>
