@@ -1,22 +1,22 @@
-[![MasterHead](omg3.gif)](https://rishavchanda.io)
 
-<!-- <style>
+<style>
     .back{
-        background:url(omg3.gif);
-        background-size:contain;
-        height:100px
+        color: ; 
+        background:url(omg19.jpeg);
+        background-size:10px;
+        height: auto;
+        margin-top:0;
+        padding:23px
 
     }
 </style>
-
 <div class="back">
 
+[![MasterHead](omg3.gif)](https://rishavchanda.io)
 
-</div> -->
 <h1 align="center">Hi 👋, I'm Om Gaikwad</h1>
 <h3 align="center">A passionate fullstack developer from India!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaikwadomg&label=Profile%20views&color=0e75b6&style=flat" alt="gaikwadomg" /> </p>
-
 
 - 🔭 I’m currently working on [Plone app](https://omgaikwad.tech/)
 
@@ -33,6 +33,7 @@
 - 📫 How to reach me **ogaikwad103@gmail.com**
 
 - 📄 Know about my experiences [https://omgaikwad.tech/cv.pdf](https://omgaikwad.tech/cv.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,3 +59,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaikwadomg&" alt="gaikwadomg" /></p><br>
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ko-fi.com/omgaikwad"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/omgaikwad" /></a></p>
+
+<br><br>
+</div>
