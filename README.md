@@ -1,5 +1,5 @@
 
-<div class="back" style=" background:url('omg19.jpeg'); background-size: 10px; height: auto; margin-top: 0; padding: 23px;">
+<div class="back" style=" background:url('dot.gif'); background-size: 13px; height: auto; margin-top: 0; padding: 23px;">
 
 [![MasterHead](omg3.gif)](https://rishavchanda.io)
 
