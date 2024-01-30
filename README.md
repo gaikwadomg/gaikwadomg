@@ -7,9 +7,9 @@
         height: auto;
         margin-top:0;
         padding:23px
-
     }
 </style>
+
 <div class="back">
 
 [![MasterHead](omg3.gif)](https://rishavchanda.io)
