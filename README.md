@@ -1,5 +1,6 @@
 
 <div class="back" style=" background:url('omg19.jpeg'); background-size: 10px; height: auto; margin-top: 0; padding: 23px;">
+
 [![MasterHead](omg3.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Om Gaikwad</h1>
