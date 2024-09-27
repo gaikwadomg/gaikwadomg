@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with **To Be updated**
 
-- 👨‍💻 All of my projects are available at [https://omgaikwad.tech/](https://omgaikwad.tech/)
+- 👨‍💻 All of my projects are available at [https://gaikwadomg.github.io/](https://gaikwadomg.github.io/)
 
 - 💬 Ask me about **react ,Javascript.**
 
 - 📫 How to reach me **ogaikwad103@gmail.com**
 
-- 📄 Know about my experiences [https://omgaikwad.tech/cv.pdf](https://omgaikwad.tech/cv.pdf)
+- 📄 Know about my experiences [https://gaikwadomg.github.io/cv.pdf](https://gaikwadomg.github.io/cv.pdf)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/omg1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/omg1" height="30" width="40" /></a>
